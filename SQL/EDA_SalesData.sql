@@ -65,7 +65,6 @@ GROUP BY Customer_ID
 ORDER BY Total_Spent DESC
 LIMIT 10;
 
-
 -- Agewise speding
 
 SELECT 
